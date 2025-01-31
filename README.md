@@ -34,3 +34,7 @@ inventory.
 as price, specifications, or availability.
 4. Sell Product: Staff can process sales transactions for customers.
 5. Sign Out: Staff can securely log out of the system
+
+
+
+NOTE : Nuget Extension that i used here IS "ReaLTaiizor"
